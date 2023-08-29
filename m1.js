@@ -1,0 +1,1 @@
+console.log('Hello Professor Escobar! What was most exciting activity you did this summer?') ;
