@@ -11,9 +11,9 @@ var name = "Module 1"; // this is my assignment name  STRING
 var checkout = true; // BOOLEAN
 
 {
-    var x = 2; // BLOCK SCOPE VARIABLE
+    var module1 = 2; // BLOCK SCOPE VARIABLE
 }
 
 
 
-console.log(m1);
+console.log("Module 1");
